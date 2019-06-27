@@ -15,5 +15,3 @@ class LinearRegression(nn.Module):
     def forward(self, x):
         y_pred = self.linear(x)
         return y_pred
-
-
