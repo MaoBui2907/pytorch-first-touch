@@ -18,3 +18,5 @@ Dữ liệu số viết tay MNIST:
 ![alt "cross entropy"](./img/cross_entropy.png)
 
 - Tối ưu với Stochastic Gradient Descent
+
+![alt "Loss value"](./img/fig.png)
